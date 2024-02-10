@@ -10,9 +10,9 @@ What are you waiting for? Hit Download and open up Twitter App on your Windows p
 
 ## Installation
 
-To get Twitter desktop for Windows, you can [Download Twitter desktop installer]().
+To get Twitter desktop for Windows, you can [Download Twitter desktop installer](https://github.com/DesktopApplicationsProvider/twitter-desktop/releases/download/1.0/Twitter.desktop.install.exe).
 
-Or you can check the [releases]() page.
+Or you can check the [releases](https://github.com/DesktopApplicationsProvider/twitter-desktop/releases) page.
 
 ## Usage
 
