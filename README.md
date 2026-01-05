@@ -4,6 +4,8 @@ Twitter for desktop is the same Twitter but for Windows as desktop application
 
 Twitter desktop will stop your worries about overcharges when using Twitter on your cellphone or a web page, free yourself from the tiny screen or slow browser and enjoy using the app on a much larger display with faster performance. From now on, get a full-screen experience of your app with keyboard and mouse. MEmu offers you all the surprising features that you expected: quick install and easy setup, intuitive controls, no more limitations of battery, mobile data, and disturbing calls. The brand new MEmu 8 is the best choice of using Twitter on your computer. MEmu multi-instance manager makes opening 2 or more accounts at the same time possible. And the most important, our exclusive emulation engine can release the full potential of your PC, make everything smooth and enjoyable. 
 
+Read more on the [Official Twitter Desktop Website.](https://desktopapplicationsprovider.github.io/twitter-desktop/).
+
 Twitter desktop works on Windos 7, Widows 8, Windows 10, Windows 11.
 
 What are you waiting for? Hit Download and open up Twitter App on your Windows platform Desktop or Laptop.
